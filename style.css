@@ -33,7 +33,7 @@ body {
 }
 
 label,
-h6 {
+p {
   font-size: 13px;
   color: var(--bg-keys);
   position: relative;

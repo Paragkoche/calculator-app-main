@@ -17,7 +17,7 @@ body {
 }
 
 label,
-h6 {
+p {
   color: var(--text-color);
 }
 

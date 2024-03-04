@@ -13,9 +13,9 @@ let operation;
 
 function themeChange(i) {
   if (i === "0") {
-    links[2].setAttribute("href", "");
+    links[1].setAttribute("href", "");
   } else {
-    links[2].setAttribute("href", `theme${i}.css`);
+    links[1].setAttribute("href", `theme${i}.css`);
   }
 }
 
